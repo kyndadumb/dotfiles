@@ -1,0 +1,12 @@
+{
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.snippetSuggestions": "top",
+    "editor.minimap.enabled": false,
+    "editor.linkedEditing": true,
+    "workbench.colorTheme": "Dracula Theme",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.mouseWheelZoom": true,
+    "editor.lineHeight": 0,
+    "editor.fontSize": 13,
+    "git.autofetch": true
+}

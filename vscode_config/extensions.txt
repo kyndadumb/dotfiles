@@ -1,0 +1,7 @@
+dracula-theme.theme-dracula
+fosshaas.fontsize-shortcuts
+vscode-icons-team.vscode-icons
+esbenp.prettier-vscode
+rangav.vscode-thunder-client
+DotJoshJohnson.xml
+ms-dotnettools.vscode-dotnet-pack
