@@ -8,5 +8,6 @@
     "editor.mouseWheelZoom": true,
     "editor.lineHeight": 0,
     "editor.fontSize": 13,
-    "git.autofetch": true
+    "git.autofetch": true,
+    "security.workspace.trust.enabled": false
 }

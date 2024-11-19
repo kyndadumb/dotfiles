@@ -4,11 +4,15 @@ export ZSH="$HOME/.oh-my-zsh"
 ZSH_THEME="amuse"
 
 # Plugins
-plugins=(git)
+plugins=(git zsh-autosuggestions)
 
-# run fastfetch if needed
+# Run fastfetch if needed
 if [[ -o interactive ]]; then
     fastfetch
 fi
+
+# Aliases
+alias na="nano"
+alias cls="clear"
 
 source $ZSH/oh-my-zsh.sh
