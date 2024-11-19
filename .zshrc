@@ -12,7 +12,13 @@ if [[ -o interactive ]]; then
 fi
 
 # Aliases
+## allgemein
 alias na="nano"
 alias cls="clear"
+
+## dotnet
+alias dotr="dotnet run"
+alias dotb="dotnet build"
+alias dotbr="dotnet build -c Release"
 
 source $ZSH/oh-my-zsh.sh
