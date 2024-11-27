@@ -5,3 +5,5 @@ esbenp.prettier-vscode
 rangav.vscode-thunder-client
 DotJoshJohnson.xml
 ms-dotnettools.vscode-dotnet-pack
+ms-dotnettools.csdevkit
+rust-lang.rust-analyzer

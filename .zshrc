@@ -21,4 +21,9 @@ alias dotr="dotnet run"
 alias dotb="dotnet build"
 alias dotbr="dotnet build -c Release"
 
+# rust
+alias cargor="cargo run"
+alias cargob="cargo build"
+alias cargoc="cargo clean"
+
 source $ZSH/oh-my-zsh.sh
